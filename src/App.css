@@ -1,0 +1,14 @@
+.App {
+  padding: 2rem;
+  background: url("./assets/backgroung.jpeg"); 
+}
+
+.input-holder {
+  width: 20rem;
+  text-align: center;
+}
+
+.input-holder>.ant-select {
+  width: 100%;
+}
+
